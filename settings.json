@@ -1,13 +1,12 @@
-{
-  "name": "AFK Bot",
+t",
   "bot-account": {
     "username": "hakle",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "afterlife-BLcM.aternos.me",
-    "port": 48403,
+    "ip": "afterlifeso.falixsrv.me",
+    "port": 20452,
     "version": ""
   },
   "position": {
