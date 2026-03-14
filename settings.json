@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "afterlif",
+    "ip": "afterlife_official.aternos.me",
     "port": 39932,
     "version": ""
   },
@@ -37,12 +37,12 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 5,
-    "max-reconnect-delay": 40,
+    "auto-reconnect-delay": 1200,
+    "max-reconnect-delay": 2000,
     "periodic-rejoin": {
       "enabled": false,
-      "min-interval": 1,
-      "max-interval": 5
+      "min-interval": 20,
+      "max-interval": 50
     }
   },
   "movement": {
